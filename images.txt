@@ -3,4 +3,4 @@ nginx
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 whyour/qinglong
-
+zadam/trilium
