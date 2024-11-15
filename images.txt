@@ -1,8 +1,1 @@
-nginx
-#支持私库
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
-whyour/qinglong
-zadam/trilium
-neosmemo/memos:stable
 hcr.io/yangchuansheng/derper
