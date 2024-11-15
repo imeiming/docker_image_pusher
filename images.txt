@@ -1,1 +1,1 @@
-hcr.io/yangchuansheng/derper
+ghcr.io/yangchuansheng/derper
