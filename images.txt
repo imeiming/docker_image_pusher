@@ -5,3 +5,4 @@ xhofe/alist:latest
 whyour/qinglong
 zadam/trilium
 neosmemo/memos:stable
+hcr.io/yangchuansheng/derper
