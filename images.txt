@@ -1,1 +1,2 @@
 zerotier/zerotier-synology
+wiznote/wizserver
